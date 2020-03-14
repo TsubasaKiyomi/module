@@ -2,6 +2,8 @@
 
 # builtins.print()
 
+# sortedの使い方。
+
 ranking = {
     'A': 100,
     'B': 85,
