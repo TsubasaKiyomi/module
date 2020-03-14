@@ -39,3 +39,11 @@
 # utils.say_twice('word')
 
 
+ranking = (
+    'A': 100,
+    'B': 85,
+    'C': 95
+)
+
+for key in ranking:
+    print(key)
